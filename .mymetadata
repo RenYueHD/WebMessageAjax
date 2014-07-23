@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="WebMessageAjax"
+  id="myeclipse.1364449831855"
+  context-root="/WebMessageAjax"
+  j2ee-spec="6.0"
+  archive="WebMessageAjax.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
